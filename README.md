@@ -1,2 +1,2 @@
-# Compuational_Physics_N2015301020031
+# Computational_Physics_N2015301020031
 School Lessons
