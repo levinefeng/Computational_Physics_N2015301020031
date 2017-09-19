@@ -1,6 +1,6 @@
 ### Computational_Physics_N2015301020031
 Homework list
-- [ ]Exercise_02
+- [X] [Exercise_02](http://note.youdao.com/noteshare?id=e2d119aab2686281585247af84bc7669)
 - [ ]Exercise_03
 - [ ]Exercise_04
 - [ ]Exercise_05
