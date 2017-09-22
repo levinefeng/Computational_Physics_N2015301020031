@@ -2,7 +2,7 @@
 Homework list
 - [X] [Exercise_02](http://note.youdao.com/noteshare?id=e2d119aab2686281585247af84bc7669)
 - [X] [Exercise_02.1](http://note.youdao.com/noteshare?id=254cfd8533d3576b941c2c2e16b334d0)
-- [ ]Exercise_03
+- [X] [Exercise_03](http://note.youdao.com/noteshare?id=e933caf902d811029b8c285601fc3c05)
 - [ ]Exercise_04
 - [ ]Exercise_05
 - [ ]Exercise_06
