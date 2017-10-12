@@ -4,7 +4,7 @@ Homework list
 - [X] [Exercise_02.1](http://note.youdao.com/noteshare?id=254cfd8533d3576b941c2c2e16b334d0)
 - [X] [Exercise_03](http://note.youdao.com/noteshare?id=e933caf902d811029b8c285601fc3c05)
 - [X] [Exercise_04](http://note.youdao.com/noteshare?id=c2f4551e6f1d95676a61793e94692011)
-- [ ]Exercise_05
+- [X] [Exercise_05](http://note.youdao.com/noteshare?id=cb18c665a032267620a9d80d7dca81df)
 - [ ]Exercise_06
 - [ ]Exercise_07
 - [ ]Exercise_08
