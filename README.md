@@ -6,7 +6,7 @@ Homework list
 - [X] [Exercise_04](http://note.youdao.com/noteshare?id=5f525b7bfc14db08a72c2fcded52464b)
 - [X] [Exercise_05](http://note.youdao.com/noteshare?id=9326e62768db328e61a95515c09fe69c)
 - [X] [Exercise_06](https://www.zybuluo.com/levinefeng/note/922392)
-- [ ]Exercise_07
+- [X] [Exercise_07](https://www.zybuluo.com/levinefeng/note/930828)
 - [ ]Exercise_08
 - [ ]Exercise_09
 - [ ]Exercise_10
