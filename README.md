@@ -9,4 +9,4 @@ Homework list
 - [X] [Exercise_07](https://www.zybuluo.com/levinefeng/note/930828)
 - [X] [Exercise_08](https://www.zybuluo.com/levinefeng/note/939315)
 - [X] [Exercise_09](https://www.zybuluo.com/levinefeng/note/947307)
-- [ ]Exercise_10
+- [X] [Exercise_10](https://www.zybuluo.com/levinefeng/note/971387)
