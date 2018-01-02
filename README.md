@@ -13,7 +13,4 @@ Homework list
 - [X] [Exercise_11](https://www.zybuluo.com/levinefeng/note/978374)
 - [X] [Midterm]()
 - [X] [Exercise_12](https://www.zybuluo.com/levinefeng/note/987645)
-- [] [Exercise_13]()
-- [] [Exercise_14]()
-- [] [Exercise_15]()
-- [] [Exercise_16]()
+- [X] [Final](https://www.zybuluo.com/levinefeng/note/1004224)
