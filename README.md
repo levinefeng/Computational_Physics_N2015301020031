@@ -11,6 +11,6 @@ Homework list
 - [X] [Exercise_09](https://www.zybuluo.com/levinefeng/note/947307)
 - [X] [Exercise_10](https://www.zybuluo.com/levinefeng/note/971387)
 - [X] [Exercise_11](https://www.zybuluo.com/levinefeng/note/978374)
-- [X] [Midterm]()
+- [X] [Midterm](https://pan.baidu.com/s/1smThkC1)
 - [X] [Exercise_12](https://www.zybuluo.com/levinefeng/note/987645)
 - [X] [Final](https://www.zybuluo.com/levinefeng/note/1004224)
